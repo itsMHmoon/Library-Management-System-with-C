@@ -21,7 +21,7 @@ int main(){
       printf("2. Display book information\n");
       printf("3. Total books in the library\n");
       printf("4. Exit");
-      printf ("\n\nEnter one of the above : ");
+      printf ("\n\nEnter one of the above: ");
       scanf("%d",&j);
       switch (j){
          /* Add book */
